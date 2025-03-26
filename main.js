@@ -8,3 +8,4 @@ function getRandNumbers(min,max,length)
     }
     return arr;
 }
+console.log("hello world");
